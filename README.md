@@ -4,6 +4,12 @@ This project sets up [Apache Superset](https://superset.apache.org/) using Docke
 
 ---
 
+## 📁 Project: CDR_Project
+
+This repository is focused on processing and analyzing **Call Detail Records (CDR)** using PostgreSQL, and visualizing KPIs through Superset dashboards.
+
+---
+
 ## 🧰 Tech Stack
 
 - Docker & Docker Compose  
@@ -20,14 +26,5 @@ This project sets up [Apache Superset](https://superset.apache.org/) using Docke
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/superset-dashboard.git
-cd superset-dashboard
-
-
-### 2. Star docker and build
-'''bash
-docker-compose up -d
-
-
-### 3. Open your browser and go to:
-http://localhost:8088
+git clone https://github.com/yourusername/CDR_Project.git
+cd CDR_Project
