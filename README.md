@@ -28,3 +28,11 @@ This repository is focused on processing and analyzing **Call Detail Records (CD
 ```bash
 git clone https://github.com/yourusername/CDR_Project.git
 cd CDR_Project
+
+
+### 2. To set up Superset use docker
+'''bash
+docker-compose up -d
+
+### 3. Login to Superset
+Use http://localhost:8088
